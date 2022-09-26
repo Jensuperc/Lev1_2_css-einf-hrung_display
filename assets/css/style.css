@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://picsum.photos/200/200/);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    margin: 0px;
+}
+
+header {
+    background-color: rgba(182, 179, 179, 0.527);
+    text-align: right;
+    padding: 10px;
+}
+
+header nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 25px 0px 25px;
+}
